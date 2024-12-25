@@ -1,0 +1,2 @@
+# Laundry
+Landing page Laundry
